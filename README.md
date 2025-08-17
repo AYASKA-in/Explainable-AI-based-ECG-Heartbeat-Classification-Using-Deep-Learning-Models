@@ -1,11 +1,10 @@
 # Explainable-AI-based-ECG-Heartbeat-Classification-Using-Deep-Learning-Models
-Got it 👍 You uploaded your research paper (PDF) and the Jupyter notebook. Based on both, I’ll draft a **professional README.md** for your GitHub repository. This README will summarize your project, explain the methodology, provide setup instructions, and guide contributors. Here’s a first version:
 
 ---
 
 # Explainable AI-Based ECG Heartbeat Classification Using Deep Learning
 
-This repository contains code and resources for the project **"Explainable AI-Based ECG Heartbeat Classification Using Deep Learning Models"**, which leverages **CNN-LSTM-Attention architectures** along with **SHAP** and **LIME** for model interpretability.
+This repository contains code and resources for the project **"Explainable AI-Based ECG Heartbeat Classification Using Deep Learning Models"**, which leverages **CNN-LSTM-Attention architectures** for model interpretability.
 
 The project aims to build **accurate and explainable deep learning models** for classifying ECG heartbeats from the MIT-BIH Arrhythmia Database and PTB Diagnostic ECG Database.
 
@@ -48,19 +47,11 @@ Both datasets are available on [PhysioNet](https://physionet.org/).
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/ecg-explainable-ai.git
-cd ecg-explainable-ai
+git clone https://github.com/AYASKA-in/Explainable-AI-based-ECG-Heartbeat-Classification-Using-Deep-Learning-Models.git
+cd Explainable-AI-based-ECG-Heartbeat-Classification-Using-Deep-Learning-Models
 ```
 
-Create a virtual environment and install dependencies:
 
-```bash
-python -m venv venv
-source venv/bin/activate   # (Linux/macOS)
-venv\Scripts\activate      # (Windows)
-
-pip install -r requirements.txt
-```
 
 ---
 
@@ -99,10 +90,8 @@ Example:
 ```
 .
 ├── ecg-cnn.ipynb          # Jupyter notebook with implementation
-├── Explainable_AI-Based_ECG_Heartbeat_Classification_Using_Deep_Learning_Models.pdf
-├── requirements.txt       # Dependencies
 ├── README.md              # Project documentation
-└── /data                  # (Optional) Place datasets here
+
 ```
 
 ---
@@ -135,5 +124,3 @@ https://ieeexplore.ieee.org/document/10870845
 ```
 
 ---
-
-👉 Do you want me to also create the **requirements.txt** file for dependencies (TensorFlow, PyTorch, SHAP, LIME, etc.) so the repo is ready to run?
