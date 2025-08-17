@@ -114,13 +114,7 @@ Example:
 ## 📜 Citation
 https://ieeexplore.ieee.org/document/10870845
 
-```
-@inproceedings{moningi2024ecg,
-  title={Explainable AI-Based ECG Heartbeat Classification Using Deep Learning Models},
-  author={Moningi, Rohit and Mahakur, Shreya and Mundada, Shradha and Tripathy, Asis Kumar},
-  booktitle={IEEE International Conference on Artificial Intelligence and Signal Processing (AISP)},
-  year={2024}
-}
-```
+
+
 
 ---
